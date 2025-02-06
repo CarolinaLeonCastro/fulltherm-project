@@ -1,8 +1,20 @@
-# React + Vite
+# Projet Web - Site Vitrine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Utilisées
 
-Currently, two official plugins are available:
+### 1. **React**
+- **Raison d'utilisation :** React a été choisi pour gérer une interface utilisateur dynamique, réactive et modulaire. Grâce à React, le site est devenu plus rapide, interactif, et l'équipe a pu gérer efficacement l'état de l'application. L'approche par composants a également facilité le développement.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 2. **Material UI (MUI)**
+- **Raison d'utilisation :** Material UI a été intégré pour fournir une bibliothèque de composants UI réactifs et esthétiques. Il permet de créer des interfaces modernes en un temps réduit et garantit une cohérence du design grâce à Material Design de Google. Cette bibliothèque a également facilité la création d'un design accessible sur mobile.
+
+## Structure
+
+- **Page d'accueil ** .
+- **Page A propos**. 
+- **Page Nos Projets** .
+- **Page Services** .
+- **Page Contact** .
+
+
+
