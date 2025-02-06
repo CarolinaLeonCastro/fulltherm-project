@@ -1,5 +1,13 @@
 # Projet Web - Site Vitrine : FullTherm
 
+## Maquette Figma
+Vous pouvez consulter la maquette du projet sur Figma en suivant ce lien :  
+[FULLTHERM EFP - Maquette Figma](https://www.figma.com/design/OYousxOGjxALOqeT9q3rlP/FULLTHERM-EFP?node-id=0-1&p=f&t=NYgTpk6n77eAei7L-0)
+
+## Structure du projet
+
+
+
 ## Technologies Utilisées
 
 ### 1. **React**
