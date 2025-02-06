@@ -1,0 +1,16 @@
+/* Ajouter ces lignes dans ton fichier CSS global */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+body {
+  margin: 0;
+  display: flex;
+
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #E0E0E0;
+  font-family: "DM Sans", serif;
+}
+
