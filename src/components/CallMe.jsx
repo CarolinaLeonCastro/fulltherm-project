@@ -10,12 +10,18 @@ const CallMe = () => {
           position: 'fixed',
           right: '1rem', // Distance par rapport au côté droit
           bottom: '2rem', // Distance par rapport au bas de la page
-          width: '2rem', // Largeur de l'icône
-          height: '2rem', // Hauteur de l'icône
-          padding: 0, // Pour enlever tout le padding par défaut autour de l'icône
+          width: '3rem', // Largeur de l'icône
+          height: '3rem', // Hauteur de l'icône
+          padding: 0, // Enlève tout le padding autour de l'icône
+          backgroundColor: '#187F92', // Couleur de fond bleu turquoise
+          borderRadius: '50%', // Rend l'icône ronde
+          borderColor: '#FF6933',
+          '&:hover': {
+            backgroundColor: '#155E72', // Change la couleur du fond lors du survol
+          },
         }}
       >
-        <Call />
+        <Call sx={{ fontSize: '2rem', color: 'white' }} />
       </IconButton>
     </a>
   );
