@@ -1,4 +1,4 @@
-# Projet Web - Site Vitrine
+# Projet Web - Site Vitrine : FullTherm
 
 ## Technologies Utilisées
 
@@ -10,7 +10,7 @@
 
 ## Structure
 
-- **Page d'accueil ** .
+- **Page d'accueil** .
 - **Page A propos**. 
 - **Page Nos Projets** .
 - **Page Services** .
